@@ -15,3 +15,8 @@ public class HelloWorld {
 ``` javascript
 var myVar = "Hello, GitHub4Women!";
 ```
+
+##### Add a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the GitHub4Women
